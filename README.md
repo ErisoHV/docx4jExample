@@ -11,14 +11,18 @@ is **${name}**
 
 The replaced text takes the format of the *placeholder* in the template ".docx"
 
-<img src="https://drive.google.com/file/d/0B3ZHh8prIEIbODdNQkVxb2oyWE0/view?usp=sharing" 
-width="60%" height="60%" border="10" />
+
+![alt text](https://drive.google.com/file/d/0B3ZHh8prIEIbODdNQkVxb2oyWE0/view?usp=sharing "Title")
 
 Use this function to generate the document:
 
-```GenerateDocuments.generateDocument(template, parameters, outputDocument);
+```java
+GenerateDocuments.generateDocument(template, parameters, outputDocument);
+
 //template : docx template file
+
 //parameters : HashMap<String, String> with placeholder and the replace text
+
 //outputDocument : String with the outputdocument path
 ```
 
