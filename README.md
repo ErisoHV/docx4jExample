@@ -12,7 +12,7 @@ is **${name}**
 The replaced text takes the format of the *placeholder* in the template ".docx"
 
 
-![alt text](images/Docx4jExample.png)
+![example](images/Docx4jExample.png?raw=true =250x)
 
 Use this function to generate the document:
 
