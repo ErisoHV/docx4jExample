@@ -1,10 +1,10 @@
 # Docx4j Example
 
-### An example to use docx4j library
+### An example for use the docx4j library
 
 - A .docx document is generated with the docx4j library.
 
-- The simplemagic library is used to validate the "mime type" file.
+- The *simplemagic library* is used to validate the file mime type.
 
 The *placeholders* are replaced in the ".docx" template with text. An example of *placeholder* 
 is **${name}**
