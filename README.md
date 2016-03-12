@@ -11,8 +11,7 @@ is **${name}**
 
 The replaced text takes the format of the *placeholder* in the template ".docx"
 
-
-![example](images/Docx4jExample.png?raw=true =250x)
+<img src="images/Docx4jExample.png?raw=true" height="250" >
 
 Use this function to generate the document:
 
